@@ -1,2 +1,2 @@
-# react-bg-change
-Change the background colour of your website using React
+# React-Beginner
+Beginner websites for React
